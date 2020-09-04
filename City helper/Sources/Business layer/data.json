@@ -1,0 +1,90 @@
+[
+    {
+        "name":"Sant Julia de Loria",
+        "location":{
+            "name":"Sant Julia de Loria",
+            "coordinate":{
+                "lat":42.46372,
+                "lng":1.49129
+            }
+        },
+        "isRated":false
+    },
+    {
+        "name":"Pas de la Casa",
+        "location":{
+            "name":"Pas de la Casa",
+            "coordinate":{
+                "lat":42.54277,
+                "lng":1.73361
+            }
+        },
+        "isRated":false
+    },
+    {
+        "name":"Ordino",
+        "location":{
+            "name":"Ordino",
+            "coordinate":{
+                "lat":42.55623,
+                "lng":1.53319
+            }
+        },
+        "isRated":false
+    },
+    {
+        "name":"les Escaldes",
+        "location":{
+            "name":"les Escaldes",
+            "coordinate":{
+                "lat":42.50729,
+                "lng":1.53414
+            }
+        },
+        "isRated":false
+    },
+    {
+        "name":"la Massana",
+        "location":{
+            "name":"la Massana",
+            "coordinate":{
+                "lat":42.54499,
+                "lng":1.51483
+            }
+        },
+        "isRated":false
+    },
+    {
+        "name":"Encamp",
+        "location":{
+            "name":"Encamp",
+            "coordinate":{
+                "lat":42.53474,
+                "lng":1.58014
+            }
+        },
+        "isRated":false
+    },
+    {
+        "name":"Canillo",
+        "location":{
+            "name":"Canillo",
+            "coordinate":{
+                "lat":42.5676,
+                "lng":1.59756
+            }
+        },
+        "isRated":false
+    },
+    {
+        "name":"Arinsal",
+        "location":{
+            "name":"Arinsal",
+            "coordinate":{
+                "lat":42.57205,
+                "lng":1.48453
+            }
+        },
+        "isRated":false
+    }
+]
